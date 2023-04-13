@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_email">Email:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_doc_identidad">Documento de identidad:</string>
+    <string name="hint_tipo_sangre">Tipo de sangre:</string>
+    <string name="hint_direccion">Dirección:</string>
+    <string name="btn_guarda">Registrarme</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+</resources>

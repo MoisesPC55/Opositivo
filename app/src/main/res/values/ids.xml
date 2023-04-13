@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="viewTelefono" />
+    <item type="id" name="viewDoc_identidad" />
+    <item type="id" name="viewTipo_sangre" />
+    <item type="id" name="viewDireccion" />
+</resources>
